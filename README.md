@@ -2,7 +2,7 @@
 
 ## 📖 Leitura
 
-Uma introdução à programação de computadores com exemploes e exercícios para iniciantes
+Uma introdução à programação de computadores com exemplos e exercícios.
 
 ## 📚 Sobre o Livro
 
