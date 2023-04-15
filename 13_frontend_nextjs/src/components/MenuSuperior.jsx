@@ -14,10 +14,6 @@ const MenuSuperior = () => {
                     <li className="nav-item">
                         <Link className="nav-link" href="/manutencao">Manutenção</Link>
                     </li>
-
-                    <li className="nav-item">
-                        <Link className="nav-link" href="/resumo">Resumo</Link>
-                    </li>
                 </ul>
             </div>
         </nav>
